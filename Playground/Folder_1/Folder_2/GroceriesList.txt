@@ -1,0 +1,6 @@
+apple
+tomato
+carrot
+sugar
+ice
+salt
